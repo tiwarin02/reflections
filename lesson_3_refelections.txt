@@ -9,3 +9,9 @@ Describe the differences between forks, clones, and branches. When would you use
 forks - take a repository and clone a version of it on your github
 clone - clone a version of repository on your hub to your local files
 branch - split the main line version of the code, can be used to add new features, etc.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+When you have no internet and are offline you hcan have the lastest copy of what is on the server.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+with github, pros and cons for each but i feel that github would allow for better collaboration with multiple people

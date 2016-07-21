@@ -15,3 +15,5 @@ You can use git log to see a history of the changes and you can use git diff to 
 
 How might using version control make you more confident to make changes that could break something?
 More willing to explore without fear of breaking the entire project. Without version control had to make small iterative changes. Can rethink the entire codebase with version control. Idea of exploration can explore a large space of things to try without worrying about having to go back and fix a project.
+
+So far after finishing the first lesson of git I have found that it is a good tool for version control. It was interesting to learn that one of my former colleagues uses git in the medical device world. It is good to know that it can be used in that space and that it can actually work.
